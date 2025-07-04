@@ -72,3 +72,20 @@ python select_data.py
   - Installation Guide: [Installation Guide](https://github.com/hiyouga/LLaMA-Factory#installation)
   - The version we used during the experiment is version 0.8.2. Please refer to the `train.sh` script for the model training. 
 
+
+## Citation
+If you finding our work interesting or helpful to you, please cite this repo.
+```
+@article{xia2025selective,
+  title={Selective fine-tuning for large language models via matrix nuclear norm},
+  author={Xia, Tingyu and Li, Yahan and Wu, Yuan and Chang, Yi},
+  journal={Information Processing \& Management},
+  volume={62},
+  number={6},
+  pages={104259},
+  year={2025},
+  publisher={Elsevier}
+}
+```
+
+
